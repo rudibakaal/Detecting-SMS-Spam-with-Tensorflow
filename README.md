@@ -5,7 +5,7 @@ A binary classification machine learning algorithm for detecting SMS spam.
 
 The SMS Spam Collection is a public set of 5,574 SMS labeled messages that have been collected for mobile phone spam research [1].
 
-The algorithm was able to learn the message vocabulary and return the term-document matrix through the sklearn TfidfVectorizer class. The binary label was one hot encoded with the sklearn LabelEncoder class. 
+The algorithm was able to learn the message vocabulary and idf, then return the term-document matrix through the sklearn TfidfVectorizer class. The binary label was one hot encoded with the sklearn LabelEncoder class. 
 
 ## Neural Network Topology and Results Summary
 
