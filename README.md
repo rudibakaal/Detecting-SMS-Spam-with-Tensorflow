@@ -17,8 +17,6 @@ After 35 epochs the binary and validation classifiers reaches 98% and 97 accurac
 
 ![spam](https://user-images.githubusercontent.com/48378196/98815483-5294e880-247b-11eb-9d65-e3c53cca3cf3.png)
 
-Although impressive, considering the relatively small data set of 120 instances, these expectations should be judiciously adjusted when applied to larger data sets.
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) 
