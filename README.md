@@ -3,11 +3,7 @@
 ## Motivation
 A binary classification machine learning algorithm for detecting SMS spam. 
 
-A collection of 425 SMS spam messages was manually extracted from the Grumbletext Web site. This is a UK forum in which cell phone users make public claims about SMS spam messages, most of them without reporting the very spam message received. 
-
-A subset of 3,375 SMS randomly chosen ham messages of the NUS SMS Corpus (NSC), which is a dataset of about 10,000 legitimate messages collected for research at the Department of Computer Science at the National University of Singapore.
-
-Also incorporated is the SMS Spam Corpus, which has 1,002 SMS ham messages (genuine) and 322 spam messages [1].
+The SMS Spam Collection is a public set of 5,574 SMS labeled messages that have been collected for mobile phone spam research [1].
 
 The algorithm was able to learn the message vocabulary and return the term-document matrix through the sklearn TfidfVectorizer class. The binary label was one hot encoded with the sklearn LabelEncoder class. 
 
