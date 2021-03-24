@@ -1,7 +1,7 @@
 # Detecting-SMS-Spam-with-Tensorflow
 
 ## Motivation
-A binary classification machine learning algorithm for detecting SMS spam. 
+A neural network trained on SMS messages designed to classify SMS spam. 
 
 The SMS Spam Collection is a public set of 5,574 SMS labeled messages that have been collected for mobile phone spam research [1].
 
