@@ -18,7 +18,7 @@ After 35 epochs the binary and validation classifiers reaches 98% and 97 accurac
 ![spam](https://user-images.githubusercontent.com/48378196/98815483-5294e880-247b-11eb-9d65-e3c53cca3cf3.png)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) 
+MIT
 
 ## References
 [1] Almeida, T.A., Gómez Hidalgo, J.M., Silva, T.P.  Towards SMS Spam Filtering: Results under a New Dataset.   International Journal of Information Security Science (IJISS), 2(1), 1-18, 2013. [Invited paper
